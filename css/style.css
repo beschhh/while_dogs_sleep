@@ -1,0 +1,211 @@
+body {
+  background-color: #0F083E;
+  font-family: "Playfair Display", serif;
+}
+
+.wrapper {
+  width: 1147px;
+  margin: 0 auto;
+}
+
+section {
+  position: relative;
+  height: 629px;
+  overflow: hidden;
+}
+
+img {
+  position: absolute;
+  display: block;
+}
+
+h1, h2, p {
+  position: absolute;
+  margin: 0;
+  font-weight: 400;
+  white-space: nowrap;
+}
+
+.block1 {
+  background-color: #FCB2FF;
+}
+
+.dog1 {
+  left: 492px;
+  top: 0;
+}
+
+.title {
+  left: 28px;
+  top: 20px;
+  font-size: 128px;
+  font-weight: 700;
+  line-height: 108px;
+  letter-spacing: -9px;
+  color: #0F083E;
+}
+
+.subtitle {
+  left: 29px;
+  top: 414px;
+  font-size: 29px;
+  line-height: 31px;
+  letter-spacing: 0.5px;
+  color: #0F083E;
+}
+
+.block2 {
+  background-color: #FC8353;
+}
+
+.photo2 {
+  left: 0;
+  top: 0;
+}
+
+.top2 {
+  left: 0;
+  top: 0;
+}
+
+.zapahi {
+  left: 29px;
+  top: 58px;
+}
+
+.chto {
+  left: 667px;
+  top: 116px;
+}
+
+.beg {
+  left: 725px;
+  top: 348px;
+}
+
+.golosa {
+  left: 58px;
+  top: 406px;
+}
+
+.block3 {
+  background-color: #5D7AFB;
+}
+
+.top3 {
+  left: 0;
+  top: 0;
+}
+
+.miska {
+  left: 0;
+  top: 110px;
+}
+
+.dog3 {
+  left: 441px;
+  top: 146px;
+}
+
+.kost {
+  left: 118px;
+  top: 429px;
+}
+
+.bottom3 {
+  left: 0;
+  top: 542px;
+}
+
+.text3 {
+  font-size: 30px;
+  line-height: 31px;
+  color: #ffffff;
+}
+
+.text3-1 {
+  left: 832px;
+  top: 212px;
+}
+
+.text3-2 {
+  left: 828px;
+  top: 328px;
+}
+
+.block4 {
+  background-color: #FC8353;
+}
+
+.dog4 {
+  left: 0;
+  top: 0;
+}
+
+.title4 {
+  left: 739px;
+  top: 65px;
+  font-size: 96px;
+  font-weight: 700;
+  line-height: 100px;
+  color: #0F083E;
+}
+
+.block5 {
+  background-color: #FCB2FF;
+}
+
+.bg5 {
+  left: 0;
+  top: 0;
+}
+
+.logo {
+  left: 528px;
+  top: 543px;
+}
+
+.text5 {
+  right: 121px;
+  top: 136px;
+  font-size: 78px;
+  font-weight: 700;
+  line-height: 80px;
+  letter-spacing: -0.5px;
+  text-align: right;
+  color: #0F083E;
+}
+
+.footer {
+  position: relative;
+  height: 138px;
+  background-color: #0F083E;
+}
+
+.logo6 {
+  left: 31px;
+  top: 47px;
+}
+
+.phone,
+.mail {
+  position: absolute;
+  right: 186px;
+  font-family: "Inter", sans-serif;
+  font-size: 20px;
+  line-height: 18px;
+  color: #ffffff;
+}
+
+.phone {
+  top: 40px;
+}
+
+.mail {
+  top: 82px;
+}
+
+.tgvk {
+  left: 983px;
+  top: 32px;
+}
